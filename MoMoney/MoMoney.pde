@@ -31,11 +31,16 @@ void setup() {
   
   artists = new ArrayList();
 
-  // test print the data (just the names to get started
+  // load artist data
   JSONArray root = data.getJSONArray("MoMoneyStats");
   for(int i=0; i<root.size(); i++) {
-    JSONObject obj = root.getJSONObject(i);
-    println(obj.getString("name"));
-    // pass data and create artist objects
+    JSONObject artist_data = root.getJSONObject(i);
+    artists.add(new Artist(artist_data));
+  }
+  
+  //test print the data
+  for(int i=0; i<artists.size(); i++) {
+    Artist a = (Artist) artists.get(i);
+    a.printDetails();
   }
 }

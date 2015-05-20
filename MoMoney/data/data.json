@@ -2,7 +2,7 @@
   "MoMoneyStats": [
     {
       "name": "Dr. Dre",
-      "full_name": "",
+      "full_name": "Andre Romelle Young",
       "birth_date": {
         "weekday": "Thursday",
         "month": "February",
@@ -18,8 +18,8 @@
         "src": "http://www.misogynystats.com/rappers/49"
       },
       "money": {
-        "net_worth": "$800,000,000",
-        "yearly_income": "$95,545,455",
+        "net_worth": "800000000",
+        "yearly_income": "95545455",
         "src": ""
       }
     },
@@ -41,8 +41,8 @@
         "src": "http://www.misogynystats.com/rappers/1"
       },
       "money" : {
-        "net_worth": "$2,000,000",
-        "yearly_income": "$242,424",
+        "net_worth": "2000000",
+        "yearly_income": "242424",
         "src": "http://www.celebritiesmoney.com/lil-b-net-worth-rapper/"
       }
 
@@ -65,8 +65,8 @@
         "src": "http://www.misogynystats.com/rappers/2"
       },
       "money": {
-        "net_worth": "$6,000,000",
-        "yearly_income": "$1,000,000",
+        "net_worth": "6000000",
+        "yearly_income": "1000000",
         "src": "http://www.celebritiesmoney.com/young-thug-net-worth-rapper/"
       }
     }
