@@ -1,0 +1,604 @@
+{
+  "RichestRappers": [
+    {
+      "name": {
+        "text": "Dr. Dre",
+        "href": ""
+      },
+      "net_worth": "$800,000,000",
+      "yearly_income": "$95,545,455",
+      "birth_date": "Thursday, February 18, 1965",
+      "age": "49"
+    },
+    {
+      "name": {
+        "text": "Sean Combs – Diddy",
+        "href": ""
+      },
+      "net_worth": "$750,000,000",
+      "yearly_income": "$80 million",
+      "birth_date": "Tuesday, November 4, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Jay Z",
+        "href": ""
+      },
+      "net_worth": "$560,000,000",
+      "yearly_income": "$60,000,00",
+      "birth_date": "Thursday, December 4, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Master P",
+        "href": ""
+      },
+      "net_worth": "$375,000,000",
+      "yearly_income": "$45,454,545",
+      "birth_date": "Wednesday, April 29, 1970",
+      "age": "44"
+    },
+    {
+      "name": {
+        "text": "Russell Simmons",
+        "href": ""
+      },
+      "net_worth": "$325,000,000",
+      "yearly_income": "$39,393,939",
+      "birth_date": "Friday, October 4, 1957",
+      "age": "57"
+    },
+    {
+      "name": {
+        "text": "50 Cent",
+        "href": ""
+      },
+      "net_worth": "$270,000,000",
+      "yearly_income": "$32,727,273",
+      "birth_date": "Sunday, July 6, 1975",
+      "age": "39"
+    },
+    {
+      "name": {
+        "text": "Birdman",
+        "href": ""
+      },
+      "net_worth": "$175,000,000",
+      "yearly_income": "$21,212,121",
+      "birth_date": "Saturday, February 15, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Eminem",
+        "href": ""
+      },
+      "net_worth": "$140,000,000",
+      "yearly_income": "$16,969,697",
+      "birth_date": "Tuesday, October 17, 1972",
+      "age": "42"
+    },
+    {
+      "name": {
+        "text": "Snoop Dogg (Snoop Lion)",
+        "href": ""
+      },
+      "net_worth": "$140,000,000",
+      "yearly_income": "$16,969,697",
+      "birth_date": "Wednesday, October 20, 1971",
+      "age": "43"
+    },
+    {
+      "name": {
+        "text": "Lil Wayne",
+        "href": ""
+      },
+      "net_worth": "$125,000,000",
+      "yearly_income": "$15,151,515",
+      "birth_date": "Monday, September 27, 1982",
+      "age": "32"
+    },
+    {
+      "name": {
+        "text": "Ice Cube",
+        "href": ""
+      },
+      "net_worth": "$120,000,000",
+      "yearly_income": "$14,545,455",
+      "birth_date": "Sunday, June 15, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Kanye West",
+        "href": ""
+      },
+      "net_worth": "$118,000,000",
+      "yearly_income": "$14,303,030",
+      "birth_date": "Wednesday, June 8, 1977",
+      "age": "37"
+    },
+    {
+      "name": {
+        "text": "Usher",
+        "href": ""
+      },
+      "net_worth": "$115,000,000",
+      "yearly_income": "$13,939,394",
+      "birth_date": "Saturday, October 14, 1978",
+      "age": "36"
+    },
+    {
+      "name": {
+        "text": "LL Cool J",
+        "href": ""
+      },
+      "net_worth": "$105,000,000",
+      "yearly_income": "$12,727,273",
+      "birth_date": "Sunday, January 14, 1968",
+      "age": "46"
+    },
+    {
+      "name": {
+        "text": "Ronald Slim Williams",
+        "href": ""
+      },
+      "net_worth": "$100,000,000",
+      "yearly_income": "$12,121,212",
+      "birth_date": "Tuesday, May 23, 1967",
+      "age": "47"
+    },
+    {
+      "name": {
+        "text": "Akon",
+        "href": ""
+      },
+      "net_worth": "$85,000,000",
+      "yearly_income": "$10,303,030",
+      "birth_date": "Monday, April 16, 1973",
+      "age": "41"
+    },
+    {
+      "name": {
+        "text": "Timbaland",
+        "href": ""
+      },
+      "net_worth": "$82,000,000",
+      "yearly_income": "$9,939,394",
+      "birth_date": "Friday, March 10, 1972",
+      "age": "42"
+    },
+    {
+      "name": {
+        "text": "Pharrell Williams",
+        "href": ""
+      },
+      "net_worth": "$80,000,000",
+      "yearly_income": "$9,696,970",
+      "birth_date": "Thursday, April 5, 1973",
+      "age": "41"
+    },
+    {
+      "name": {
+        "text": "Adam Horovitz aka Ad-Rock",
+        "href": ""
+      },
+      "net_worth": "$78,000,000",
+      "yearly_income": "$9,454,545",
+      "birth_date": "Monday, October 31, 1966",
+      "age": "48"
+    },
+    {
+      "name": {
+        "text": "Will.i.am",
+        "href": ""
+      },
+      "net_worth": "$75,000,000",
+      "yearly_income": "$9,090,909",
+      "birth_date": "Saturday, March 15, 1975",
+      "age": "39"
+    },
+    {
+      "name": {
+        "text": "Mike D (Michael Diamond)",
+        "href": ""
+      },
+      "net_worth": "$75,000,000",
+      "yearly_income": "$9,090,909",
+      "birth_date": "Saturday, November 20, 1965",
+      "age": "49"
+    },
+    {
+      "name": {
+        "text": "Rev Run (Joseph Simmons)",
+        "href": ""
+      },
+      "net_worth": "$72,000,000",
+      "yearly_income": "$8,727,273",
+      "birth_date": "Saturday, November 14, 1964",
+      "age": "50"
+    },
+    {
+      "name": {
+        "text": "Busta Rhymes",
+        "href": ""
+      },
+      "net_worth": "$70,000,000",
+      "yearly_income": "$8,484,848",
+      "birth_date": "Saturday, May 20, 1972",
+      "age": "42"
+    },
+    {
+      "name": {
+        "text": "Swizz Beatz",
+        "href": ""
+      },
+      "net_worth": "$67,000,000",
+      "yearly_income": "$8,121,212",
+      "birth_date": "Wednesday, September 13, 1978",
+      "age": "36"
+    },
+    {
+      "name": {
+        "text": "Nelly",
+        "href": ""
+      },
+      "net_worth": "$63,000,000",
+      "yearly_income": "$7,636,364",
+      "birth_date": "Saturday, November 2, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "Chad Hugo",
+        "href": ""
+      },
+      "net_worth": "$60,000,000",
+      "yearly_income": "$7,272,727",
+      "birth_date": "Sunday, February 24, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "Wyclef Jean",
+        "href": ""
+      },
+      "net_worth": "$55,500,000",
+      "yearly_income": "$6,727,273",
+      "birth_date": "Friday, October 17, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Afeni Shakur",
+        "href": ""
+      },
+      "net_worth": "$50,000,000",
+      "yearly_income": "$6,060,606",
+      "birth_date": "Wednesday, January 22, 1947",
+      "age": "67"
+    },
+    {
+      "name": {
+        "text": "T.I.",
+        "href": ""
+      },
+      "net_worth": "$50,000,000",
+      "yearly_income": "$6,060,606",
+      "birth_date": "Thursday, September 25, 1980",
+      "age": "34"
+    },
+    {
+      "name": {
+        "text": "Darryl McDaniels",
+        "href": ""
+      },
+      "net_worth": "$47,000,000",
+      "yearly_income": "$5,696,970",
+      "birth_date": "Sunday, May 31, 1964",
+      "age": "50"
+    },
+    {
+      "name": {
+        "text": "Andre 3000",
+        "href": ""
+      },
+      "net_worth": "$46,000,000",
+      "yearly_income": "$5,575,758",
+      "birth_date": "Tuesday, May 27, 1975",
+      "age": "39"
+    },
+    {
+      "name": {
+        "text": "Bone Thugs-n-Harmony",
+        "href": ""
+      },
+      "net_worth": "$45,000,000",
+      "yearly_income": "$5,454,545",
+      "birth_date": "Monday, June 17, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "J Prince",
+        "href": ""
+      },
+      "net_worth": "$43,000,000",
+      "yearly_income": "$5,212,121",
+      "birth_date": "Wednesday, March 22, 1972",
+      "age": "42"
+    },
+    {
+      "name": {
+        "text": "Nicki Minaj",
+        "href": ""
+      },
+      "net_worth": "$42,000,000",
+      "yearly_income": "$5,090,909",
+      "birth_date": "Wednesday, December 8, 1982",
+      "age": "32"
+    },
+    {
+      "name": {
+        "text": "Big Boi",
+        "href": ""
+      },
+      "net_worth": "$40,000,000",
+      "yearly_income": "$4,848,485",
+      "birth_date": "Saturday, February 1, 1975",
+      "age": "39"
+    },
+    {
+      "name": {
+        "text": "T-Pain",
+        "href": ""
+      },
+      "net_worth": "$35,000,000",
+      "yearly_income": "$4,242,424",
+      "birth_date": "Monday, September 30, 1985",
+      "age": "29"
+    },
+    {
+      "name": {
+        "text": "Rick Ross",
+        "href": ""
+      },
+      "net_worth": "$35,000,000",
+      "yearly_income": "$4,242,424",
+      "birth_date": "Wednesday, January 28, 1976",
+      "age": "38"
+    },
+    {
+      "name": {
+        "text": "Drake",
+        "href": ""
+      },
+      "net_worth": "$34,000,000",
+      "yearly_income": "$4,121,212",
+      "birth_date": "Friday, October 24, 1986",
+      "age": "28"
+    },
+    {
+      "name": {
+        "text": "Ice T",
+        "href": ""
+      },
+      "net_worth": "$32,000,000",
+      "yearly_income": "$3,878,788",
+      "birth_date": "Sunday, February 16, 1958",
+      "age": "56"
+    },
+    {
+      "name": {
+        "text": "Joseph Utsler",
+        "href": ""
+      },
+      "net_worth": "$30,000,000",
+      "yearly_income": "$3,636,364",
+      "birth_date": "Sunday, February 16, 1958",
+      "age": "56"
+    },
+    {
+      "name": {
+        "text": "Violent J",
+        "href": ""
+      },
+      "net_worth": "$30,000,000",
+      "yearly_income": "$3,636,364",
+      "birth_date": "Friday, April 28, 1972",
+      "age": "42"
+    },
+    {
+      "name": {
+        "text": "Flo Rida",
+        "href": ""
+      },
+      "net_worth": "$30,000,000",
+      "yearly_income": "$3,636,364",
+      "birth_date": "Sunday, September 16, 1979",
+      "age": "35"
+    },
+    {
+      "name": {
+        "text": "Lil Jon",
+        "href": ""
+      },
+      "net_worth": "$28,000,000",
+      "yearly_income": "$3,393,939",
+      "birth_date": "Sunday, January 17, 1971",
+      "age": "43"
+    },
+    {
+      "name": {
+        "text": "Ludacris",
+        "href": ""
+      },
+      "net_worth": "$25,000,000",
+      "yearly_income": "$3,030,303",
+      "birth_date": "Sunday, September 11, 1977",
+      "age": "37"
+    },
+    {
+      "name": {
+        "text": "The Game",
+        "href": ""
+      },
+      "net_worth": "$24,000,000",
+      "yearly_income": "$2,909,091",
+      "birth_date": "Thursday, November 29, 1979",
+      "age": "35"
+    },
+    {
+      "name": {
+        "text": "Soulja Boy",
+        "href": ""
+      },
+      "net_worth": "$22,000,000",
+      "yearly_income": "$2,666,667",
+      "birth_date": "Saturday, July 28, 1990",
+      "age": "24"
+    },
+    {
+      "name": {
+        "text": "Mike Shinoda",
+        "href": ""
+      },
+      "net_worth": "$20,000,000",
+      "yearly_income": "$2,424,242",
+      "birth_date": "Friday, February 11, 1977",
+      "age": "37"
+    },
+    {
+      "name": {
+        "text": "Cee Lo Green",
+        "href": ""
+      },
+      "net_worth": "$20,000,000",
+      "yearly_income": "$2,424,242",
+      "birth_date": "Thursday, May 30, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "Nick Cannon",
+        "href": ""
+      },
+      "net_worth": "$20,000,000",
+      "yearly_income": "$2,424,242",
+      "birth_date": "Wednesday, October 8, 1980",
+      "age": "34"
+    },
+    {
+      "name": {
+        "text": "Method Man",
+        "href": ""
+      },
+      "net_worth": "$20,000,000",
+      "yearly_income": "$2,424,242",
+      "birth_date": "Tuesday, March 2, 1971",
+      "age": "43"
+    },
+    {
+      "name": {
+        "text": "Wiz Khalifa",
+        "href": ""
+      },
+      "net_worth": "$20,000,000",
+      "yearly_income": "$2,424,242",
+      "birth_date": "Tuesday, September 8, 1987",
+      "age": "27"
+    },
+    {
+      "name": {
+        "text": "Fabolous",
+        "href": ""
+      },
+      "net_worth": "$19,000,000",
+      "yearly_income": "$2,303,030",
+      "birth_date": "Friday, November 18, 1977",
+      "age": "37"
+    },
+    {
+      "name": {
+        "text": "Damian Marley",
+        "href": ""
+      },
+      "net_worth": "$18,000,000",
+      "yearly_income": "$2,181,818",
+      "birth_date": "Friday, July 21, 1978",
+      "age": "36"
+    },
+    {
+      "name": {
+        "text": "Mannie Fresh",
+        "href": ""
+      },
+      "net_worth": "$18,000,000",
+      "yearly_income": "$2,181,818",
+      "birth_date": "Thursday, March 20, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Juicy J",
+        "href": ""
+      },
+      "net_worth": "$16,000,000",
+      "yearly_income": "$1,939,394",
+      "birth_date": "Saturday, April 5, 1975",
+      "age": "39"
+    },
+    {
+      "name": {
+        "text": "Lil’ Kim",
+        "href": ""
+      },
+      "net_worth": "$15,000,000",
+      "yearly_income": "$1,818,182",
+      "birth_date": "Thursday, July 11, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "Jazze Pha",
+        "href": ""
+      },
+      "net_worth": "$15,000,000",
+      "yearly_income": "$1,818,182",
+      "birth_date": "Thursday, April 25, 1974",
+      "age": "40"
+    },
+    {
+      "name": {
+        "text": "RZA",
+        "href": ""
+      },
+      "net_worth": "$14,000,000",
+      "yearly_income": "$1,696,970",
+      "birth_date": "Saturday, July 5, 1969",
+      "age": "45"
+    },
+    {
+      "name": {
+        "text": "Vanilla Ice",
+        "href": ""
+      },
+      "net_worth": "$13,000,000",
+      "yearly_income": "$1,575,758",
+      "birth_date": "Tuesday, October 31, 1967",
+      "age": "47"
+    },
+    {
+      "name": {
+        "text": "Ghostface Killah",
+        "href": ""
+      },
+      "net_worth": "$10,000,000",
+      "yearly_income": "$1,212,121",
+      "birth_date": "Saturday, May 9, 1970",
+      "age": "44"
+    }
+  ]
+}
