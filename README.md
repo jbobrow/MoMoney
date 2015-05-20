@@ -4,7 +4,7 @@ Inspired by the work of Ben Fry w/ Salary vs. Performance(http://fathom.info/sal
 
 public data source: https://docs.google.com/spreadsheets/d/1qyoUdP1MKHbZ4j5KP4rXLQWzU4j15b_Svu4SvqS5W3M/edit?usp=sharing
 
-Initial concept inspired by MisogynyStats.com<br/>
+Initial concept inspired by http://www.misogynystats.com/<br/>
 created by Mehan Jaayasuriya, @mehan_j<br/>
 www.mehan.info<br/>
 
