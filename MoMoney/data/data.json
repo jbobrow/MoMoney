@@ -1,0 +1,74 @@
+{
+  "MoMoneyStats": [
+    {
+      "name": "Dr. Dre",
+      "full_name": "",
+      "birth_date": {
+        "weekday": "Thursday",
+        "month": "February",
+        "day": "18",
+        "year": "1965"
+      },      
+      "age": "49"
+      "misogyny": {
+        "bitch_count": "92",
+        "pussy_count": "6",
+        "ho_count": "56",
+        "overall_count": "154"
+        "src": "http://www.misogynystats.com/rappers/49",
+      },
+      "money": {
+        "net_worth": "$800,000,000",
+        "yearly_income": "$95,545,455",
+        "src": ""
+      }
+    },
+    {
+      "name": "Lil B",
+      "full_name": "Brandon McCartney",
+      "birth_date": {
+        "weekday": "",
+        "month": "August",
+        "day": "17",
+        "year": "1989"
+      },
+      "age": "25"
+      "misogyny": {
+        "bitch_count": "239",
+        "pussy_count": "13",
+        "ho_count": "38",
+        "overall_count": "290",
+        "src": "http://www.misogynystats.com/rappers/1"
+      },
+      "money" : {
+        "net_worth": "$2,000,000",
+        "yearly_income": "$242,424",
+        "src": "http://www.celebritiesmoney.com/lil-b-net-worth-rapper/"
+      }
+
+    },
+    {
+      "name": "Young Thug",
+      "full_name": "Jeffrey Williams",
+      "birth_date": {
+        "weekday": "",
+        "month": "",
+        "day": "",
+        "year": "1992"
+      },
+      "age": "22",
+      "misogyny": {
+        "bitch_count": "96",
+        "pussy_count": "22",
+        "ho_count": "14",
+        "overall_count": "132"
+        "src": "http://www.misogynystats.com/rappers/2"
+      }
+      "money": {
+        "net_worth": "$6,000,000",
+        "yearly_income": "$1,000,000",
+        "src": "http://www.celebritiesmoney.com/young-thug-net-worth-rapper/"
+      }
+    }
+  ]
+}
