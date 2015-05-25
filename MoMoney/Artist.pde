@@ -33,7 +33,7 @@ class Artist {
   int age;
   int b_count, p_count, h_count, total_count;
   float net_worth;
-  float yearly_income;
+  float yearly_income;  
     
   Artist(JSONObject data) {
     name = data.getString("name");
@@ -58,8 +58,12 @@ class Artist {
     yearly_income = mon_obj.getInt("yearly_income");
     worth_src = mon_obj.getString("src");
   }
-  
+    
   void printDetails() {
+    println("----------------------------");
     println("name: " + name);
+    println("worth: " + net_worth);
+    println("misog: " + total_count);
+    println("----------------------------");
   }
 }
